@@ -19,6 +19,8 @@ https://github.com/sieneis-82/StopTime/releases/
 
 ### Others
 Wiki : https://github.com/sieneis-82/StopTime/wiki/
+
 Bug report : https://github.com/sieneis-82/StopTime/issues/
 
 Copyright 2007-2014 DreamWork Studio. All rights reserved.
+Our homepage : http://dw.cn/
